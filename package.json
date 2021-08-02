@@ -1,5 +1,5 @@
 {
-  "name": "03-tareas",
+  "name": "cli-tareas",
   "version": "1.0.0",
   "description": "App de tareas",
   "main": "index.js",
